@@ -87,3 +87,5 @@ Ejemplo de tres consejos con demostración. Se recomendaría resultado primero y
 ## Demo para revisar
 
 El usuario eligió **resultado primero** para la demo. Propuesta de cierre: bucle. La demo usa texto y gráficos originales, voz sintética local y música generada localmente; no sustituye la comprobación sobre una grabación real del usuario. Archivo: `3 Listos/demo-mi-estilo-provisional.mp4`.
+
+También se creó `3 Listos/demo-estilo-grabaciones.mp4` con las grabaciones nuevas sincronizadas desde GitHub: prueba visual con música y rótulos editoriales, sin presentar esos rótulos como transcripción del diálogo. La valoración del balance voz/música queda separada en la demo gráfica con voz sintética. Ambas siguen pendientes de comentarios del usuario.

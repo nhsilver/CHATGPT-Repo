@@ -16,3 +16,11 @@ python resultados/demo-estilo/crear-demo.py
 ```
 
 El script sobrescribe solo sus archivos de demo. Requiere Pillow, NumPy y espeakng-loader, incluidos en el registro de dependencias del estudio. `mezcla.wav` es la mezcla local reutilizable. `vista-previa.jpg` muestra una imagen de la demo.
+
+## Prueba sobre tus grabaciones
+
+Al sincronizar GitHub aparecieron seis vídeos nuevos en `material grabado`. La segunda prueba, `3 Listos/demo-estilo-grabaciones.mp4`, usa esas imágenes: 12 planos de 2,5 segundos, encuadre vertical, rótulos con las dos tipografías, blanco/crema y tres acercamientos suaves. Empieza mostrando el resultado y conecta el cierre con ese mismo momento.
+
+Los rótulos son textos editoriales originales, **no una transcripción de lo dicho**. No se reutilizó el audio de cámara porque no se ha verificado su contenido: esta versión lleva solo la música instrumental original. El equilibrio música/voz se puede valorar por separado en la demo gráfica con voz sintética. Los originales no se modifican.
+
+Recrear: `python resultados/demo-estilo/crear-montaje-real.py`. El script usa temporalmente archivos `parte-*`, `rotulo-*` y `montaje.txt` dentro de esta carpeta; los elimina al terminar correctamente. La música original se conserva como `musica-original.wav`.
