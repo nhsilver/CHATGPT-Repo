@@ -22,7 +22,7 @@ Los colores de la ropa o de marcas ajenas no forman parte de la paleta.
 
 ## Subtítulos
 
-- Combinar palabras individuales y grupos cortos de 2–4 palabras según el sentido de la frase.
+- Subtítulos palabra a palabra, sincronizados con el tiempo de cada palabra. La regla actual sustituye la propuesta inicial de grupos de 2–4 palabras. Revisar ortografía y respetar cómo el usuario escribe nombres y marcas; consultar grafías dudosas.
 - Base: Libre Baskerville Regular, gratuita y libre bajo SIL OFL.
 - Palabras importantes: Montserrat ExtraBold, gratuita y libre bajo SIL OFL.
 - Son alternativas gratuitas propuestas; no se afirma que sean las fuentes originales.
@@ -47,7 +47,9 @@ Los colores de la ropa o de marcas ajenas no forman parte de la paleta.
 - Elegir los efectos entre los archivos que el usuario suba a `Efectos de sonido/`, en la raíz del repositorio. Añadirlos con intención y moderación, sin tapar la voz ni convertirlos en un recurso constante.
 - Si no hay canciones o efectos adecuados, consultarlo; no inventar archivos ni dar por hecho que ya están disponibles.
 - Punto de partida: música 18–24 dB por debajo de la voz mientras se habla; subir 3–6 dB en pausas y momentos sin voz, suavemente.
-- Ajustar escuchando la mezcla final. Son objetivos de mezcla, no mediciones de las referencias.
+- Añadir un efecto discreto por animación, elegido de `Efectos de sonido/`; mantener pocas animaciones con propósito para evitar efectos constantes.
+- Música libre de derechos de `Instrumental/`: comprobar licencia o permiso de uso, sin asumir que subir un archivo demuestra sus derechos.
+- Ajustar escuchando la mezcla final y normalizar el máster a **-14 LUFS integrados**, midiendo el archivo exportado. Las diferencias relativas música/voz anteriores son objetivos de mezcla, no mediciones de las referencias.
 
 ## Antes de editar cada vídeo
 
@@ -78,6 +80,48 @@ Recomendar la duración que mejor encaje con el material y el objetivo, sin eleg
 - Copiar mensajes o marcas de las referencias.
 - Convertir un detalle de un solo vídeo en regla de estilo.
 - Servicios que exijan pago, clave o cuenta sin consultar antes.
+
+## Protocolo obligatorio para cada edición
+
+Estas reglas se aplican enteras cada vez que el usuario pida editar un vídeo. Las instrucciones específicas posteriores del usuario prevalecen si cambian alguna regla.
+
+### Antes de tocar el material
+
+1. Leer esta ficha (`2 Mi estilo/mi-estilo.md`). Si no está disponible, parar y avisar al usuario.
+2. Elegir el vídeo de `1 Brutos/` que indique el usuario; si no indica uno, usar el último. Comprobar las fechas disponibles y no inventar cuál es el último si hay ambigüedad que afecte a la elección.
+3. Nunca modificar el original: hacer una copia de trabajo y realizar sobre ella el análisis y la edición. Conservar también los audios preparados aportados por el usuario, sin generar voz.
+4. Leer y seguir reels-montage (`_herramientas/reels-montage`): transcribir con el tiempo de **cada palabra**. Revisar fotogramas a lo largo del vídeo para localizar cara y manos. No sustituir una transcripción pendiente por texto inventado; si falta el modelo o una capacidad necesaria, explicar el bloqueo.
+5. Si falta información para decidir, hacer **como máximo tres preguntas**, con opciones y la recomendada marcada. Recoger, sin repetir decisiones ya dadas para ese vídeo, duración (15 s máximo / entre 15 y 20 s / 30 s máximo), inicio y cierre, agrupando con claridad cualquier otra información imprescindible dentro de ese límite. Esperar las decisiones necesarias antes de editar.
+
+### Guion antes de editar: aprobación obligatoria
+
+Guardar en `3 Listos/` un guion por momentos, con **segundo, lo que digo, lo que se ve, efecto y herramienta**. Incluir la lista de cortes con tiempos de origen y destino y motivo; distinguir la voz transcrita de los rótulos editoriales. Proponer únicamente datos respaldados por el material.
+
+Enseñar el guion al usuario y **no continuar con la edición hasta que diga que sí**. Guardar y subir el guion no equivale a aprobarlo. Si cambia de forma relevante el plan aprobado, pedir aprobación del plan revisado antes de aplicarlo.
+
+### Cómo editar tras la aprobación
+
+1. **Limpieza — reels-montage:** quitar silencios y huecos. Buscar frases empezadas y repetidas con ayuda de la transcripción; quedarse con la última toma completa. Quitar muletillas como «eh» o «vale», conservando el sentido y evitando cortes que mutilen palabras.
+2. **Imagen:** corregir luz y color solo si hace falta, con resultado natural. Montaje vertical de **1080 × 1920**.
+3. **Subtítulos:** palabra a palabra, sin faltas, con nombres y marcas escritos como indique el usuario. Nunca tapar cara ni manos: comprobar todo el recorrido, recolocar o reencuadrar cuando sea necesario.
+4. **Animaciones y recortes:** usar Remotion o HyperFrames para animaciones y rembg con `u2net_human_seg` para recortes de fondo siguiendo reels-montage, solo cuando refuercen lo dicho. Entradas con movimiento suave, nunca de golpe. Respetar los requisitos de gratuidad y consultar antes de cualquier pago, clave o cuenta.
+5. **Sonido — Media Use:** seguir sus opciones locales gratuitas. Música libre de derechos aportada en `Instrumental/` por debajo de la voz preparada por el usuario; un efecto discreto de `Efectos de sonido/` por animación. Mezcla final a **-14 LUFS integrados**. No generar voz, canciones o efectos para suplir archivos ausentes sin las autorizaciones correspondientes; la voz generada está prohibida por la preferencia del usuario.
+
+### Lo que nunca se hace
+
+- Inventar datos o cifras.
+- Añadir logos o material de terceros.
+- Usar algo de pago sin preguntar antes.
+- Modificar los originales, generar voz o saltarse la aprobación del guion.
+
+### Comprobación y entrega
+
+- Revisar **todo el vídeo ya exportado**, no solo muestras o fotogramas: duración elegida, resolución, sincronización y ortografía de subtítulos, audio y volumen, y que nada tape cara o manos.
+- Comprobar que en los **dos primeros segundos** se entiende de qué va, incluso sin sonido.
+- Medir el archivo final para confirmar **-14 LUFS integrados**. No afirmar que se ha escuchado o revisado entero si las herramientas disponibles no lo permiten; explicar la parte pendiente antes de darlo por validado.
+- Guardar en `3 Listos/` como `<nombre-del-video>_v1.mp4`, `_v2.mp4`, etc. Cada corrección crea una versión nueva; **nunca borrar ni sobrescribir la anterior**. Versionar también los guiones cuando cambien.
+- Subir a GitHub los archivos del trabajo según la preferencia permanente del usuario, conservando originales y versiones.
+- Entregar un resumen de **tres líneas** con lo realizado y lo que se recomienda ajustar.
 
 ## Ejemplo aprobado provisionalmente: 30 segundos
 
