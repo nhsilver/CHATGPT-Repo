@@ -69,6 +69,28 @@ Recomendar la duración que mejor encaje con el material y el objetivo, sin eleg
 
 **Cierre:** elegir con el usuario, según el tipo de vídeo, entre conclusión breve con una acción concreta o final en bucle. Recomendar el mejor para el objetivo. No fijar uno para todos los vídeos.
 
+## Hooks: elegir el mecanismo y adaptarlo al tema
+
+Cada gancho de este banco viene con dos cosas: un ejemplo real y qué transmite. Lo segundo es lo que importa. El ejemplo lo vas a cambiar; el mecanismo que hay debajo es el que se repite.
+
+1. **Elige el mecanismo, no la frase.** Mira el «qué transmite» y decide qué quieres provocar: curiosidad, dolor, urgencia o identificación.
+2. **Traduce el ejemplo a tu nicho.** «Si haces esto con tu tatuaje recién hecho» funciona igual con una reforma, una dieta o una cuenta de Instagram. Adaptar siempre el gancho al tema, la audiencia y el objetivo del vídeo del usuario.
+3. **Dilo en los tres primeros segundos.** Un gancho en el segundo diez no es un gancho. Mantener además la regla visual: el tema debe entenderse sin sonido en los dos primeros segundos.
+4. **No repitas mecanismo dos vídeos seguidos.** La audiencia se acostumbra y deja de frenar.
+
+### Cómo elegirlo en cada vídeo
+
+- **Curiosidad:** abrir una pregunta o una información incompleta que el vídeo sí resuelve.
+- **Dolor:** señalar un problema concreto de la audiencia que el contenido aborda, sin exagerarlo ni inventarlo.
+- **Urgencia:** explicar por qué actuar ahora, únicamente si existe una razón real; no inventar plazos, escasez ni consecuencias.
+- **Identificación:** presentar una situación reconocible para que quien lo ve piense «eso me pasa a mí».
+
+Antes de redactar, revisar el mecanismo del último vídeo editado en sus guiones de `3 Listos/`. Si no consta, no inventar el historial: dejarlo indicado y recoger el dato dentro del límite de tres preguntas si resulta necesario. Proponer opciones adaptadas al vídeo, marcar la recomendada y dejar elegir al usuario, respetando también su elección de gancho directo, resultado primero o pregunta.
+
+En el guion pendiente de aprobación, registrar: **mecanismo, qué transmite, frase adaptada, qué se ve en 0–2 s y cuándo se dice dentro de 0–3 s**. Registrar el mecanismo finalmente utilizado para evitar repetirlo en la siguiente edición. No prometer algo que el vídeo no entrega ni copiar la marca o el mensaje de terceros.
+
+Al incorporar entradas al banco, conservar para cada una el ejemplo real y su procedencia, qué transmite y la adaptación al tema propio. No presentar frases inventadas como ejemplos reales. Este apartado establece el método; todavía no se ha aportado un banco de ejemplos reales completo.
+
 ## Prohibidos
 
 - Zooms bruscos, transiciones excesivas y animaciones sin propósito.
