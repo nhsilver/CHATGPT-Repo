@@ -12,6 +12,7 @@ certifi==2026.10.23
 charset-normalizer==3.5.2
 click==8.5.0
 ctranslate2==4.8.4
+espeakng-loader==0.2.4
 fastapi==0.128.8
 faster-whisper==1.2.1
 filelock==4.2.4

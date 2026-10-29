@@ -8,3 +8,4 @@ __pycache__/
 node_modules/
 # Registros regenerables
 resultados/prueba/*.log
+resultados/demo-estilo/render.log

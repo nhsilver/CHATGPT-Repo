@@ -114,3 +114,9 @@ El modelo de voz se descarga aparte con el comando anterior: la preparación bá
 Se volvió a ejecutar la preparación: dependencias sin conflictos, modelo de personas con suma correcta, Node.js 24, Python 3.12 y yt-dlp disponibles. El vídeo conserva sus dimensiones 1080 × 1920 y cinco segundos. La carpeta de grabaciones sigue vacía.
 
 Se reintentó la descarga real del modelo de voz y el acceso continúa bloqueado. Los dominios están guardados en el borrador, pero no figuran en la configuración activa. Falta revisar y guardar ese cambio en ajustes y publicar el entorno. Hasta descargar y probar el modelo, la transcripción sin internet no está lista.
+
+## Mi ficha de estilo y la demo
+
+La ficha `2 Mi estilo/mi-estilo.md` tiene aprobación provisional. Antes de cada edición hay que recordar las tres opciones de arranque, recomendar una y dejar que el usuario elija. El cierre se elige entre conclusión con acción y bucle según el vídeo.
+
+La demo original de 30 segundos está en `3 Listos/demo-mi-estilo-provisional.mp4`. Usa las fuentes gratuitas Libre Baskerville y Montserrat, voz española sintética de eSpeak NG y música original generada localmente. Se reproduce con `python resultados/demo-estilo/crear-demo.py` después de activar el entorno. Es una prueba de estilo con gráficos, no una edición de material grabado del usuario. Las fuentes y sus licencias se conservan en `resultados/demo-estilo/fuentes`.
