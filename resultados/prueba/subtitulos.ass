@@ -1,0 +1,12 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,DejaVu Sans,76,&H00FFFFFF,&H0000E8FF,&H00201A15,&H90000000,-1,0,0,0,100,100,0,0,1,4,2,2,100,100,420,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.30,0:00:04.80,Default,,0,0,0,,{\an5\move(540,1400,540,1280,0,450)\fad(250,300)\fscx85\fscy85\t(0,450,\fscx100\fscy100)}{\k65}Tu {\k65}historia.\N{\k65}Tu {\k65}próximo {\k90}reel.

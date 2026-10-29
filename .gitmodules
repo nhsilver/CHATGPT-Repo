@@ -1,0 +1,12 @@
+[submodule "_herramientas/reels-montage"]
+	path = _herramientas/reels-montage
+	url = https://github.com/itpartypattaya/reels-montage.git
+[submodule "_herramientas/hyperframes"]
+	path = _herramientas/hyperframes
+	url = https://github.com/heygen-com/hyperframes.git
+[submodule "_herramientas/remotion-skills"]
+	path = _herramientas/remotion-skills
+	url = https://github.com/remotion-dev/skills.git
+[submodule "_herramientas/yt-dlp"]
+	path = _herramientas/yt-dlp
+	url = https://github.com/yt-dlp/yt-dlp.git

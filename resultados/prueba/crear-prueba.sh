@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/../.."
+ffmpeg -hide_banner -y -f lavfi -i 'color=c=0x101C30:s=1080x1920:r=30:d=5' -f lavfi -i 'anullsrc=r=48000:cl=stereo' -vf "drawbox=x=100:y=260:w=100:h=10:color=0xFFE800:t=fill,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='ESTUDIO DE REELS':fontcolor=white:fontsize=45:x=100:y=310,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='DALE VIDA':fontcolor=white:fontsize=100:x=100:y=500,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf:text='A TU IDEA.':fontcolor=0xFFE800:fontsize=100:x=100:y=630,subtitles=resultados/prueba/subtitulos.ass" -t 5 -c:v libx264 -preset fast -crf 20 -threads 2 -pix_fmt yuv420p -c:a aac -b:a 128k -movflags +faststart '3 Listos/prueba-reel-5s.mp4'

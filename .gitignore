@@ -1,0 +1,10 @@
+# Archivos locales y credenciales
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+# Registros regenerables
+resultados/prueba/*.log
