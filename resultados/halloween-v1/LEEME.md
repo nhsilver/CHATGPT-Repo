@@ -6,7 +6,7 @@ El usuario aprobó explícitamente el guion `3 Listos/halloween-evsaboutique_gui
 
 Previsualización visual de 15 segundos: `3 Listos/halloween-evsaboutique_v1_PREVIA-sin-audio.mp4`. No es el máster final listo para publicar.
 
-No hay archivos de voz preparados ni canciones o efectos en las carpetas del estudio en esta revisión. No se ha generado voz, música o efectos ni se ha reutilizado audio de las demos anteriores. El audio de cámara no contiene la locución aprobada y no se ha utilizado como sustituto. El usuario tiene pendiente elegir si esta edición será sin sonido o con su voz preparada.
+No hay archivos de voz preparados ni canciones o efectos en las carpetas del estudio en esta revisión. No se ha generado voz, música o efectos ni se ha reutilizado audio de las demos anteriores. El audio de cámara no contiene la locución aprobada y no se ha utilizado como sustituto. El usuario eligió terminar esta edición con su voz preparada. Falta recibir ese archivo; la previa silenciosa es únicamente un avance visual.
 
 Los textos de la previa son rótulos del guion aprobado, con tiempos orientativos por bloques. **No son una transcripción ni subtítulos alineados a una voz que aún no se ha entregado.** La transcripción palabra a palabra y su sincronización quedan pendientes. No hay medición de -14 LUFS: el archivo es silencioso y esa medición no aplica hasta disponer de mezcla.
 
@@ -30,7 +30,7 @@ La instalación actual del motor está en `/workspace/reels-node`, fuera del rep
 
 ## Antes de publicar
 
-- [ ] Recibir el audio de voz preparado o la elección explícita de versión sin sonido.
+- [ ] Recibir el audio de voz preparado: el usuario confirmó esta opción.
 - [ ] Incorporar y alinear palabras al audio; revisar grafías y sincronización completa.
 - [ ] Elegir canciones y efectos aportados o la opción de música desde Instagram, comprobando permisos.
 - [ ] Mezclar con voz por encima del resto y medir -14 LUFS integrados si lleva audio.
