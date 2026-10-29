@@ -89,7 +89,67 @@ Antes de redactar, revisar el mecanismo del último vídeo editado en sus guione
 
 En el guion pendiente de aprobación, registrar: **mecanismo, qué transmite, frase adaptada, qué se ve en 0–2 s y cuándo se dice dentro de 0–3 s**. Registrar el mecanismo finalmente utilizado para evitar repetirlo en la siguiente edición. No prometer algo que el vídeo no entrega ni copiar la marca o el mensaje de terceros.
 
-Al incorporar entradas al banco, conservar para cada una el ejemplo real y su procedencia, qué transmite y la adaptación al tema propio. No presentar frases inventadas como ejemplos reales. Este apartado establece el método; todavía no se ha aportado un banco de ejemplos reales completo.
+Al incorporar entradas al banco, conservar para cada una el ejemplo real y su procedencia, qué transmite y la adaptación al tema propio. No presentar frases inventadas como ejemplos reales. El banco siguiente contiene los 19 ejemplos aportados por el usuario. Su procedencia externa y sus afirmaciones no se han verificado; son referencias de mecanismos, no datos para repetir como propios.
+
+### Banco de 19 tipos de ganchos
+
+**Fuente:** ejemplos aportados por el usuario. En cada vídeo, elegir el mecanismo, adaptar el ejemplo al tema y comprobar que el contenido cumple lo prometido. No reutilizar cifras, experiencias personales, supuestos secretos ni consecuencias de estos ejemplos sin respaldo real. Las familias son una clasificación del banco; incluso los ganchos del grupo «Los que cierran» deben aparecer al inicio si se eligen como hook.
+
+#### Ganchos 01–03: los que avisan y ordenan
+
+| Nº | Tipo | Ejemplo aportado | Qué transmite |
+| --- | --- | --- | --- |
+| 01 | **Advertencia** — advertencia / error crítico | «Si haces esto con tu tatuaje recién hecho, mejor no te hagas ninguno» | Peligro + consecuencia inmediata |
+| 02 | **Prohibición** — prohibición / regla clave | «No subas un vídeo a Instagram si no haces estos ajustes» | Norma + autoridad |
+| 03 | **Comparación** | «No sé si quiero ser guardia civil o nacional» | Situación real + identificación |
+
+#### Ganchos 04–06: los que rompen la creencia
+
+| Nº | Tipo | Ejemplo aportado | Qué transmite |
+| --- | --- | --- | --- |
+| 04 | **Alerta** — cosas que haces mal | «3 errores que están matando tus vídeos» | Claridad + estructura |
+| 05 | **Resultado** — resultado extremo | «Gané 10.000 seguidores en 24 horas haciendo esto» | Resultado concreto + curiosidad |
+| 06 | **Mito** — mito vs. realidad | «Los hashtags no sirven... o eso dicen» | Duda + ruptura de creencias |
+
+#### Ganchos 07–09: los que abren un bucle
+
+| Nº | Tipo | Ejemplo aportado | Qué transmite |
+| --- | --- | --- | --- |
+| 07 | **Secreto** | «El truco que Instagram no quiere que sepas» | Exclusividad |
+| 08 | **Problema** — problema directo | «Tus vídeos no tienen visitas por esto» | Dolor + identificación |
+| 09 | **Curiosidad** — curiosidad abierta | «Hice esto durante 7 días y pasó esto» | Intriga |
+
+#### Ganchos 10–12: los que te ponen en su lugar
+
+| Nº | Tipo | Ejemplo aportado | Qué transmite |
+| --- | --- | --- | --- |
+| 10 | **Descubrimiento** — descubrimiento personal | «Yo tampoco sabía esto hasta que me pasó» | Cercanía + aprendizaje |
+| 11 | **Error común** | «Todo el mundo se equivoca en esto» | Identificación masiva |
+| 12 | **Confesión** | «Yo también hacía mal esto» | Vulnerabilidad + confianza |
+
+#### Ganchos 13–15: los que empujan a actuar
+
+| Nº | Tipo | Ejemplo aportado | Qué transmite |
+| --- | --- | --- | --- |
+| 13 | **Corrección** — corrección directa | «Deja de hacer esto en tus vídeos» | Urgencia + acción |
+| 14 | **Revelación** — revelación rápida | «Nadie te está contando esto sobre Instagram» | Exclusividad + curiosidad |
+| 15 | **Antes / después** — antes vs. después | «Antes hacía esto... ahora hago esto otro» | Evolución + contraste |
+
+#### Ganchos 16–17: los que interpelan
+
+| Nº | Tipo | Ejemplo aportado | Qué transmite |
+| --- | --- | --- | --- |
+| 16 | **Pregunta** — pregunta directa | «¿Por qué tus vídeos no funcionan?» | Reflexión + intriga |
+| 17 | **Reto** | «Haz esto en tu próximo vídeo y mira lo que pasa» | Acción + curiosidad |
+
+#### Ganchos 18–19: los que cierran
+
+| Nº | Tipo | Ejemplo aportado | Qué transmite |
+| --- | --- | --- | --- |
+| 18 | **Futuro** — advertencia futura | «Si sigues haciendo esto, tu cuenta va a caer» | Consecuencia futura |
+| 19 | **Validación** | «Si te pasa esto, es normal» | Empatía + conexión |
+
+Al proponer hooks, señalar **número y tipo**, explicar qué transmiten y presentar la frase adaptada al vídeo con la recomendación marcada. Registrar en el guion el tipo y la emoción o mecanismo dominante; cambiar de número no basta si se repite el mismo mecanismo del vídeo anterior. Mantener la elección del usuario y la aprobación del guion antes de editar.
 
 ## Prohibidos
 
