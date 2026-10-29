@@ -41,12 +41,23 @@ Los colores de la ropa o de marcas ajenas no forman parte de la paleta.
 
 ## Música y voz
 
+- Usar exclusivamente los archivos de voz preparados que entregue el usuario. No generar, sintetizar ni clonar la voz. Si faltan los archivos necesarios, pedirlos antes de montar una versión con voz.
 - Voz clara, estable y siempre comprensible.
-- Música instrumental según el tono; género aún sin fijar.
+- Elegir la música entre las canciones que el usuario suba a `Instrumental/`, en la raíz del repositorio, según el tono del vídeo. No generar música ni sustituirla por otras fuentes sin consultarlo.
+- Elegir los efectos entre los archivos que el usuario suba a `Efectos de sonido/`, en la raíz del repositorio. Añadirlos con intención y moderación, sin tapar la voz ni convertirlos en un recurso constante.
+- Si no hay canciones o efectos adecuados, consultarlo; no inventar archivos ni dar por hecho que ya están disponibles.
 - Punto de partida: música 18–24 dB por debajo de la voz mientras se habla; subir 3–6 dB en pausas y momentos sin voz, suavemente.
 - Ajustar escuchando la mezcla final. Son objetivos de mezcla, no mediciones de las referencias.
 
 ## Antes de editar cada vídeo
+
+**Preguntar siempre qué duración quiere el usuario y esperar su elección antes de editar:**
+
+1. 15 segundos máximo.
+2. Entre 15 y 20 segundos.
+3. 30 segundos máximo.
+
+Recomendar la duración que mejor encaje con el material y el objetivo, sin elegirla automáticamente. Confirmar también los archivos de voz preparados y revisar `Instrumental/` y `Efectos de sonido/`.
 
 **Recordar siempre las tres opciones de inicio y recomendar la más apropiada; el usuario decide para cada vídeo:**
 
@@ -60,6 +71,7 @@ Los colores de la ropa o de marcas ajenas no forman parte de la paleta.
 
 - Zooms bruscos, transiciones excesivas y animaciones sin propósito.
 - Efectos de sonido constantes.
+- Generar, sintetizar o clonar la voz del usuario; usar solo los audios preparados que entregue.
 - Subtítulos pequeños, saturados, sin contraste o tapando elementos importantes.
 - Introducciones largas, pausas innecesarias y cierres que se alargan.
 - Música que dificulte entender la voz.
@@ -84,7 +96,9 @@ Ejemplo de tres consejos con demostración. Se recomendaría resultado primero y
 | 24–27 s | Recapitulación visual breve sin saturar texto. |
 | 27–30 s | Bucle conectado al inicio; si el objetivo son consultas, proponer una acción concreta. |
 
-## Demo para revisar
+## Demos anteriores: contexto histórico
+
+Estas demos se crearon antes de la nueva instrucción sobre audio. La voz sintética y la música generada de esas pruebas no son modelos para futuras ediciones: desde ahora se utilizarán los audios de voz, canciones y efectos aportados por el usuario. No regenerar esas demos con voz sintética.
 
 El usuario eligió **resultado primero** para la demo. Propuesta de cierre: bucle. La demo usa texto y gráficos originales, voz sintética local y música generada localmente; no sustituye la comprobación sobre una grabación real del usuario. Archivo: `3 Listos/demo-mi-estilo-provisional.mp4`.
 

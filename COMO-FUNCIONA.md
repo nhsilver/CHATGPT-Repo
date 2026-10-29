@@ -5,7 +5,9 @@ Todo lo preparado aquí funciona con herramientas gratuitas. No se ha creado nin
 ## Dónde colocar cada cosa
 
 - `1 Brutos/`: vídeos originales. Conserva siempre una copia sin editar.
-- `referencias/`: ejemplos, música y recursos que tengas permiso para usar.
+- `referencias/`: ejemplos y recursos que tengas permiso para usar.
+- `Instrumental/`: canciones aportadas por el usuario para los vídeos.
+- `Efectos de sonido/`: efectos aportados por el usuario para añadir con moderación.
 - `resultados/`: proyectos, subtítulos y archivos intermedios.
 - `3 Listos/`: vídeos terminados.
 - `_herramientas/`: repositorios descargados y ayudantes del estudio.
@@ -122,3 +124,9 @@ La ficha `2 Mi estilo/mi-estilo.md` tiene aprobación provisional. Antes de cada
 La demo original de 30 segundos está en `3 Listos/demo-mi-estilo-provisional.mp4`. Usa las fuentes gratuitas Libre Baskerville y Montserrat, voz española sintética de eSpeak NG y música original generada localmente. Se reproduce con `python resultados/demo-estilo/crear-demo.py` después de activar el entorno. Es una prueba de estilo con gráficos, no una edición de material grabado del usuario. Las fuentes y sus licencias se conservan en `resultados/demo-estilo/fuentes`.
 
 También está `3 Listos/demo-estilo-grabaciones.mp4`: montaje visual de 30 segundos con las seis grabaciones nuevas, música original y rótulos editoriales. No incluye el diálogo de cámara ni pretende transcribirlo. Se reproduce con `python resultados/demo-estilo/crear-montaje-real.py`.
+
+## Audio y duración antes de editar
+
+Usar solo los archivos de voz preparados que entregue el usuario, sin generar, sintetizar ni clonar voz. Elegir canciones de `Instrumental/` y efectos de `Efectos de sonido/`; consultar si faltan recursos. Las demos anteriores con audio generado quedan como historial, no como pauta para nuevas ediciones.
+
+Antes de editar, preguntar y esperar la elección de duración: **15 segundos máximo**, **entre 15 y 20 segundos** o **30 segundos máximo**. Recomendar una según el material y el objetivo. Mantener también la elección de inicio y cierre descrita en `2 Mi estilo/mi-estilo.md`.
