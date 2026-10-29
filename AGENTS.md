@@ -15,3 +15,18 @@ Aplicar entero el «Protocolo obligatorio para cada edición» de `2 Mi estilo/m
 Antes de editar, guardar en `3 Listos/` el guion por segundo (voz, imagen, efecto, herramienta) y lista de cortes; enseñarlo y esperar un sí explícito. No confundir subir el guion con aprobarlo. Tras el sí, limpiar silencios, retomas y muletillas; corrección natural de luz/color; vertical 1080×1920; subtítulos palabra a palabra sin errores ni cubrir cara/manos. Animaciones con Remotion o HyperFrames y recortes rembg u2net_human_seg solo con propósito y entrada suave. Media Use local para mezcla: música libre de derechos de Instrumental bajo la voz aportada, un efecto discreto por animación de Efectos de sonido, máster medido a -14 LUFS integrados. No inventar datos/cifras, añadir logos/material de otros ni usar pagos sin consultar.
 
 Revisar todo el exportado: duración, resolución, sincronía, ortografía, audio, niveles y obstrucciones; los dos primeros segundos deben entenderse sin sonido. Explicar cualquier comprobación que las herramientas no permitan realizar, sin inventar validación. Entregar en `3 Listos/<nombre>_vN.mp4`; cada corrección crea versión nueva sin borrar anteriores. Subir el trabajo a GitHub según la preferencia del usuario. Resumen final de tres líneas: lo hecho y ajustes recomendados.
+
+## Inicio de conversación y solicitud de edición
+
+Al comenzar una conversación en este estudio, preguntar qué quiere hacer con opciones que incluyan **editar video eva**. Otras opciones: revisar una edición o ajustar el estilo/organizar el estudio. Si el usuario ya ha indicado claramente su objetivo, atenderlo sin repetir una pregunta ya contestada.
+
+Cuando el usuario elija «editar video eva» o diga que quiere editar un vídeo, enviar esta plantilla para que la rellene antes de preparar el guion:
+
+```text
+Edita [nombre del vídeo / el último] siguiendo mis reglas de edición.
+Va de [el tema en una frase] y es para [quién lo va a ver]. Lo quiero para [que me escriban / que me sigan / vender...].
+Que dure como mucho [segundos] y que acabe con [comenta PALABRA / sígueme / link en la bio].
+Solo para este vídeo: [opcional: más animaciones, sin música, un efecto concreto...]
+```
+
+Si ya entrega la plantilla rellena o información equivalente, no pedir que repita los datos. Leer `2 Mi estilo/mi-estilo.md`, aplicar las reglas completas y preparar el guion con lista de cortes en `3 Listos/`. Esperar el sí explícito al guion antes de editar. Las indicaciones «Solo para este vídeo» se aplican únicamente a esa edición y no cambian permanentemente la ficha. Las preguntas restantes necesarias, con opciones y recomendación, siguen limitadas a tres; no repetir la duración o el cierre cuando ya consten en la solicitud.

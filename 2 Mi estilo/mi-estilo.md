@@ -147,3 +147,18 @@ Estas demos se crearon antes de la nueva instrucción sobre audio. La voz sinté
 El usuario eligió **resultado primero** para la demo. Propuesta de cierre: bucle. La demo usa texto y gráficos originales, voz sintética local y música generada localmente; no sustituye la comprobación sobre una grabación real del usuario. Archivo: `3 Listos/demo-mi-estilo-provisional.mp4`.
 
 También se creó `3 Listos/demo-estilo-grabaciones.mp4` con las grabaciones nuevas sincronizadas desde GitHub: prueba visual con música y rótulos editoriales, sin presentar esos rótulos como transcripción del diálogo. La valoración del balance voz/música queda separada en la demo gráfica con voz sintética. Ambas siguen pendientes de comentarios del usuario.
+
+## Inicio de conversación y solicitud de edición
+
+Al comenzar una conversación en este estudio, preguntar qué quiere hacer con opciones que incluyan **editar video eva**. Otras opciones: revisar una edición o ajustar el estilo/organizar el estudio. Si el usuario ya ha indicado claramente su objetivo, atenderlo sin repetir una pregunta ya contestada.
+
+Cuando el usuario elija «editar video eva» o diga que quiere editar un vídeo, enviar esta plantilla para que la rellene antes de preparar el guion:
+
+```text
+Edita [nombre del vídeo / el último] siguiendo mis reglas de edición.
+Va de [el tema en una frase] y es para [quién lo va a ver]. Lo quiero para [que me escriban / que me sigan / vender...].
+Que dure como mucho [segundos] y que acabe con [comenta PALABRA / sígueme / link en la bio].
+Solo para este vídeo: [opcional: más animaciones, sin música, un efecto concreto...]
+```
+
+Si ya entrega la plantilla rellena o información equivalente, no pedir que repita los datos. Leer `2 Mi estilo/mi-estilo.md`, aplicar las reglas completas y preparar el guion con lista de cortes en `3 Listos/`. Esperar el sí explícito al guion antes de editar. Las indicaciones «Solo para este vídeo» se aplican únicamente a esa edición y no cambian permanentemente la ficha. Las preguntas restantes necesarias, con opciones y recomendación, siguen limitadas a tres; no repetir la duración o el cierre cuando ya consten en la solicitud.
