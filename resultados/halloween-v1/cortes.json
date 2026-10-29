@@ -1,0 +1,42 @@
+[
+  {
+    "final_start": 0,
+    "final_end": 3,
+    "source": "WhatsApp Video 2026-10-26 at 18.04.43.mp4",
+    "source_in": 5.0,
+    "source_out": 8.0,
+    "reason": "Aplicación de labial sobre el rosa"
+  },
+  {
+    "final_start": 3,
+    "final_end": 6,
+    "source": "WhatsApp Video 2026-10-26 at 18.04.43.mp4",
+    "source_in": 9.0,
+    "source_out": 12.0,
+    "reason": "Vestido rosa transformado"
+  },
+  {
+    "final_start": 6,
+    "final_end": 9,
+    "source": "WhatsApp Video 2026-10-26 at 18.04.13.mp4",
+    "source_in": 2.0,
+    "source_out": 5.0,
+    "reason": "Eva preparando el maniquí"
+  },
+  {
+    "final_start": 9,
+    "final_end": 12,
+    "source": "WhatsApp Video 2026-10-26 at 18.06.04.mp4",
+    "source_in": 10.0,
+    "source_out": 13.0,
+    "reason": "Equipo y detalles en el espejo"
+  },
+  {
+    "final_start": 12,
+    "final_end": 15,
+    "source": "WhatsApp Video 2026-10-26 at 18.06.04.mp4",
+    "source_in": 13.0,
+    "source_out": 16.0,
+    "reason": "Espejo y resultado"
+  }
+]

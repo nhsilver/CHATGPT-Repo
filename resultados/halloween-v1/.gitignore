@@ -1,0 +1,5 @@
+fuentes-trabajo/
+partes/
+*.log
+.hyperframes/
+node_modules/

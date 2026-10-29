@@ -1,0 +1,23 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><title>Halloween en evsaboutique — previa visual</title><style>
+@font-face{font-family:'Libre Baskerville';src:url('assets/LibreBaskerville.ttf');font-weight:400 700}
+@font-face{font-family:'Montserrat';src:url('assets/Montserrat.ttf');font-weight:100 900}
+*{box-sizing:border-box}html,body{margin:0;width:1080px;height:1920px;background:#181818;overflow:hidden}
+#main{position:relative;width:1080px;height:1920px;overflow:hidden}
+#footage{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover;z-index:0}
+.caption{position:absolute;left:108px;width:864px;z-index:2;text-align:center}
+.words{padding:22px 24px;background:#181818;border-radius:14px;color:#FFFFFF;font-family:'Libre Baskerville';font-size:60px;line-height:1.35;font-weight:400}
+strong{font-family:'Montserrat';font-weight:800;font-size:70px;color:#FFF4B0}
+</style></head><body><div id="main" data-composition-id="main" data-start="0" data-duration="15" data-width="1080" data-height="1920" data-fps="30">
+<video id="footage" class="clip" data-start="0" data-duration="15" data-track-index="0" src="assets/base.mp4" muted playsinline></video>
+<div id="caption-0" class="clip caption" data-start="0" data-duration="3" data-track-index="1" data-track-kind="captions" style="top:180px"><div id="words-0" class="words">¿Vestidos de invitada<br>para <strong>Halloween</strong>? Claro.</div></div>
+<div id="caption-1" class="clip caption" data-start="3" data-duration="3" data-track-index="1" data-track-kind="captions" style="top:180px"><div id="words-1" class="words">Un vestido,<br><strong>muchas posibilidades.</strong></div></div>
+<div id="caption-2" class="clip caption" data-start="6" data-duration="3" data-track-index="1" data-track-kind="captions" style="top:1450px"><div id="words-2" class="words">En evsaboutique<br>preparamos con <strong>ilusión</strong>…</div></div>
+<div id="caption-3" class="clip caption" data-start="9" data-duration="3" data-track-index="1" data-track-kind="captions" style="top:1450px"><div id="words-3" class="words">…cada evento<br>del <strong>año.</strong></div></div>
+<div id="caption-4" class="clip caption" data-start="12" data-duration="3" data-track-index="1" data-track-kind="captions" style="top:1450px"><div id="words-4" class="words">¿En qué transformarías<br>el <strong>tuyo?</strong></div></div>
+</div><script src="assets/gsap.min.js"></script><script>const tl=gsap.timeline({paused:true});
+tl.fromTo("#words-0",{y:12,opacity:0},{y:0,opacity:1,duration:0.18,ease:"power2.out"},0);
+tl.fromTo("#words-1",{y:12,opacity:0},{y:0,opacity:1,duration:0.18,ease:"power2.out"},3);
+tl.fromTo("#words-2",{y:12,opacity:0},{y:0,opacity:1,duration:0.18,ease:"power2.out"},6);
+tl.fromTo("#words-3",{y:12,opacity:0},{y:0,opacity:1,duration:0.18,ease:"power2.out"},9);
+tl.fromTo("#words-4",{y:12,opacity:0},{y:0,opacity:1,duration:0.18,ease:"power2.out"},12);
+window.__timelines=window.__timelines||{};window.__timelines.main=tl;</script></body></html>

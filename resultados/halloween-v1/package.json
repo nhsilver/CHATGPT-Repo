@@ -1,0 +1,11 @@
+{
+  "name": "halloween-evsaboutique",
+  "private": true,
+  "scripts": {
+    "check": "hyperframes check . --json",
+    "render": "hyperframes render . --workers 1 --quality looks --output \"../../3 Listos/halloween-evsaboutique_v1_PREVIA-sin-audio.mp4\""
+  },
+  "dependencies": {
+    "hyperframes": "0.8.216"
+  }
+}
