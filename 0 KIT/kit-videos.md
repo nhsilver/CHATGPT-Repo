@@ -257,3 +257,149 @@ Pregunta abierta → respuestas previsibles → giro inesperado → cifra concre
 3. **Lo complejo se simplifica.** La autoridad aparece cuando algo difícil se vuelve fácil de entender.
 4. **Hay recompensa clara.** El espectador sabe qué gana por ver el vídeo.
 5. **Cada frase tiene una función.** No hay relleno. Cada bloque capta atención, crea curiosidad, explica, aporta credibilidad o cierra con beneficio.
+
+## Decisión 3: cómo lo grabas — el formato
+
+**El formato:** cómo lo grabas.
+
+### Por qué importa
+
+Cien maneras distintas de grabar la misma idea. Elige una, cámbiala cada vez y deja de publicar siempre el mismo vídeo hablando a cámara.
+
+Si solo hablas, tienes que ser bastante convincente para transmitir tu propuesta de valor. Con un formato siempre le das al espectador algo que mirar que no sea tu cara.
+
+Estos 30 se graban con una persona sola y un móvil, y sirven para un negocio de servicios.
+
+### Hablar a cámara sin aburrir
+
+#### 01. NOTICIA DE ÚLTIMA HORA
+
+El vídeo imita un informativo. La persona aparece como presentadora y explica una noticia real o relacionada con su sector.
+
+#### 02. DOS PERSONAJES INTERPRETADOS POR LA MISMA PERSONA
+
+La misma persona representa dos papeles diferentes: cliente y profesional, yo antes y yo ahora. Para diferenciarlos se puede cambiar de posición, ropa, gafas, peinado o tono de voz.
+
+#### 03. PODCAST FALSO
+
+La persona aparece con un micrófono, mirando ligeramente hacia un lado, como si estuviera respondiendo en un podcast.
+
+#### 04. FRAGMENTO DE VIDEOLLAMADA
+
+El contenido se presenta como una llamada de Zoom, FaceTime o videollamada con un cliente. Aparece una pregunta en la otra ventana y la persona responde desde la suya.
+
+#### 05. CONVERSACIÓN DE WHATSAPP DRAMATIZADA
+
+En pantalla aparecen mensajes y la persona reacciona o responde a cada uno.
+
+### Pantalla, capturas y reacciones
+
+#### 06. CAPTURA DE PANTALLA CON EXPLICACIÓN
+
+Se graba la pantalla del móvil o del ordenador mientras la persona explica con voz en off.
+
+#### 07. MANO SEÑALANDO ELEMENTOS EN PANTALLA
+
+Aparece una captura grande y una mano, flecha o círculo va señalando cada parte. Es más visual que limitarse a leer la información.
+
+#### 08. PANTALLA VERDE
+
+La persona se coloca delante de una captura, noticia, perfil, vídeo o comentario. Puede señalar directamente el elemento del que está hablando.
+
+#### 09. VÍDEO PAUSADO Y ANALIZADO
+
+Se reproduce un vídeo, se pausa en momentos concretos y la persona explica qué está ocurriendo.
+
+### Comparaciones y contrastes
+
+#### 10. ANTES Y DESPUÉS
+
+Se enseña primero el resultado anterior y después la transformación. Lo importante es que el cambio se vea rápido.
+
+#### 11. ANTES, PROCESO Y RESULTADO
+
+No se limita al antes y después. Enseña brevemente cómo se consiguió el cambio: situación inicial, cambio realizado, resultado final.
+
+#### 12. BIEN CONTRA MAL
+
+La pantalla o el vídeo diferencia claramente lo correcto de lo incorrecto: ❌ Así no. ✅ Así sí.
+
+#### 13. NORMAL FRENTE A PELIGROSO
+
+Se presentan situaciones alternadas: esto es normal, esto no es normal, esto es peligroso, esto requiere revisión profesional.
+
+#### 14. PRINCIPIANTE FRENTE A EXPERTO
+
+Se representa cómo actúa una persona que empieza y cómo actúa alguien con experiencia.
+
+### Rankings, retos y eliminatorias
+
+#### 15. RANKING VISUAL
+
+Los elementos se ordenan del peor al mejor, del menos útil al más útil o del más barato al más caro.
+
+#### 16. TIER LIST
+
+Los elementos se colocan en categorías: excelente, bueno, regular, malo, no lo utilizaría nunca. El espectador se queda para ver dónde colocas cada opción.
+
+#### 17. ELIMINACIÓN PROGRESIVA
+
+Se presentan varias opciones y se van descartando una a una hasta encontrar la ganadora.
+
+#### 18. RETO CONTRARRELOJ
+
+La persona debe completar una tarea en un tiempo limitado, como mejorar un perfil en treinta segundos.
+
+### Experimentos, casos y auditorías
+
+#### 19. EXPERIMENTO
+
+Se prueba una hipótesis y después se muestra el resultado: hipótesis, prueba, resultado, conclusión.
+
+#### 20. CASO REAL
+
+Se cuenta la historia de un cliente, seguidor o negocio. Es importante enseñar pruebas visuales siempre que sea posible.
+
+#### 21. AUDITORÍA EN DIRECTO
+
+La persona analiza una cuenta, una web, un anuncio, una biografía o un vídeo: qué está bien, qué está fallando, qué cambiaría, cómo quedaría.
+
+#### 22. TRANSFORMACIÓN EN DIRECTO
+
+Se parte de una versión mala y se va modificando delante del espectador. El contenido se construye visualmente paso a paso.
+
+### Pizarra, papel y objetos
+
+#### 23. PIZARRA FÍSICA
+
+La persona explica dibujando, escribiendo palabras o conectando conceptos en una pizarra. Funciona porque el espectador quiere ver cómo queda el esquema completo.
+
+#### 24. PAPEL Y ROTULADOR
+
+Una versión más cercana y sencilla que la pizarra. Se pueden escribir pasos, fórmulas, errores, números o comparaciones.
+
+#### 25. TARJETAS QUE APARECEN UNA A UNA
+
+Cada concepto está escrito en una tarjeta. La persona las muestra, ordena, coloca o tira.
+
+#### 26. OBJETOS COMO METÁFORA
+
+Se utilizan objetos físicos para explicar conceptos abstractos. Un vaso representa la atención del espectador: cada error hace que se vaya vaciando.
+
+### Tutoriales y puntos de vista
+
+#### 27. DEMOSTRACIÓN PRÁCTICA
+
+En lugar de explicar algo, se ejecuta delante de cámara.
+
+#### 28. TUTORIAL CON RESULTADO PRIMERO
+
+El vídeo empieza mostrando el resultado final y después se explica el proceso. Mostrar el resultado antes crea deseo por aprenderlo.
+
+#### 29. TUTORIAL CON ERROR INTENCIONADO
+
+La persona empieza haciéndolo mal y deja que el espectador detecte el fallo. Después lo corrige.
+
+#### 30. TUTORIAL EN PRIMERA PERSONA
+
+La cámara se coloca como si fueran los ojos de la persona. El espectador ve las manos, el ordenador, el móvil o el proceso desde su punto de vista.
