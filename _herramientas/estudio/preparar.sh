@@ -6,7 +6,7 @@ command -v ffprobe >/dev/null
 node -e 'if (Number(process.versions.node.split(".")[0]) < 22) process.exit(1)'
 python3 -m venv /workspace/reels-venv
 /workspace/reels-venv/bin/python -m pip install -r _herramientas/estudio/requirements.txt
-mkdir -p 'material grabado' referencias resultados '3 Listos' /workspace/modelos-reels/rembg
+mkdir -p '1 Brutos' referencias resultados '3 Listos' /workspace/modelos-reels/rembg
 if [ ! -f /workspace/modelos-reels/rembg/u2net_human_seg.onnx ]; then
   curl -fL --retry 2 -o /workspace/modelos-reels/rembg/u2net_human_seg.onnx https://github.com/danielgatis/rembg/releases/download/v0.0.0/u2net_human_seg.onnx
 fi

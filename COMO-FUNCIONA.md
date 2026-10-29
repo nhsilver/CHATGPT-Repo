@@ -4,7 +4,7 @@ Todo lo preparado aquí funciona con herramientas gratuitas. No se ha creado nin
 
 ## Dónde colocar cada cosa
 
-- `material grabado/`: vídeos originales. Conserva siempre una copia sin editar.
+- `1 Brutos/`: vídeos originales. Conserva siempre una copia sin editar.
 - `referencias/`: ejemplos, música y recursos que tengas permiso para usar.
 - `resultados/`: proyectos, subtítulos y archivos intermedios.
 - `3 Listos/`: vídeos terminados.
@@ -47,7 +47,7 @@ Activa Python y señala dónde está el modelo de personas. No hace falta manten
 ### Recortarte de una imagen
 
 ```bash
-rembg i -m u2net_human_seg 'material grabado/foto.jpg' 'resultados/persona.png'
+rembg i -m u2net_human_seg '1 Brutos/foto.jpg' 'resultados/persona.png'
 ```
 
 El PNG conserva la transparencia. Para un vídeo hay que separar fotogramas, recortarlos con el mismo modelo y recomponerlos con su audio; puede tardar bastante en CPU. El borde se debe revisar con tu grabación real.
@@ -68,7 +68,7 @@ Descarga el modelo multilingüe `small`, útil para español, aproximadamente 50
 Después, transcribir localmente:
 
 ```bash
-python _herramientas/estudio/transcribir.py 'material grabado/video.mp4' 'resultados/subtitulos.srt'
+python _herramientas/estudio/transcribir.py '1 Brutos/video.mp4' 'resultados/subtitulos.srt'
 ```
 
 El ayudante fuerza el modo sin internet y usa CPU. Si falta el modelo, muestra un aviso en vez de intentar descargarlo. Revisa nombres propios y sincronización antes de publicar.

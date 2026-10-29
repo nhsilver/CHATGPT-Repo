@@ -4,7 +4,7 @@ import math,subprocess,wave
 import numpy as np
 from PIL import Image,ImageFont,ImageDraw
 ROOT=Path(__file__).resolve().parents[2]; OUT=ROOT/'resultados/demo-estilo'
-clips=sorted((ROOT/'material grabado').glob('WhatsApp*.mp4'))
+clips=sorted((ROOT/'1 Brutos').glob('WhatsApp*.mp4'))
 # Resultado, preparación y vuelta al resultado. Solo se leen los originales.
 plan=[(3,.3,'Un día','diferente.'),(5,19,'Todo empieza','con una idea.'),(1,1,'Elegir.','Probar.'),(1,7,'Mirar','los detalles.'),(4,.4,'Dar forma','a la idea.'),(4,7,'Un toque','personal.'),(0,.3,'Los detalles','importan.'),(5,9,'Y también','la actitud.'),(2,7,'Un cambio','de mirada.'),(2,10.8,'Un poco','de juego.'),(5,15,'Todo cobra','sentido.'),(3,.3,'Un día','diferente.')]
 def font(name,size,weight):
