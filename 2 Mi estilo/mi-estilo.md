@@ -276,3 +276,45 @@ Aplicar esta lista a la versión final exportada y mostrarla al entregar el víd
 - [ ] El usuario ha visto el vídeo entero una vez en el móvil, no solo en el ordenador.
 
 La visualización completa en el móvil requiere confirmación del usuario: recordárselo al entregar y dejar ese punto pendiente hasta que confirme haberlo visto. Una revisión en el ordenador o fotogramas no la sustituye. Si el usuario elige añadir música desde Instagram, entregar sin música incrustada, conservar su voz y los efectos aprobados y recordarle que compruebe allí el balance final de música y voz antes de publicar. No asumir derechos sobre una canción por estar en la carpeta Instrumental.
+
+## De una idea a la ficha del próximo vídeo
+
+Cuando el usuario quiera plasmar una idea o un guion para crear un vídeo y después editarlo, ofrecer siempre **aplicar `0 KIT/kit-videos.md` y completar la ficha**. «Ejecutar el kit» significa leer y aplicar este documento, no ejecutar un programa. Consultarlo junto con `2 Mi estilo/mi-estilo.md`; si falta el kit, avisar y no fingir que se ha aplicado.
+
+**El usuario solo rellena IDEA. El asistente rellena el resto.** Pedir únicamente la idea o el contexto si aún no los ha dado. Si ya ha descrito la idea o el guion, usarlo directamente sin pedirle que repita información ni que complete los demás campos.
+
+Presentar la ficha con esta estructura:
+
+```text
+FICHA DE TU PRÓXIMO VÍDEO
+
+IDEA:
+
+DECISIÓN 1 · QUÉ DICES
+GANCHO Nº:
+
+DECISIÓN 2 · CÓMO LO CUENTAS
+HOOK:
+TENSIÓN:
+PROMESA:
+PASOS:
+DATO:
+CIERRE:
+
+DECISIÓN 3 · CÓMO LO GRABAS
+FORMATO Nº:
+```
+
+### Cómo completarla
+
+- **IDEA:** resumir fielmente la idea o el contexto del usuario, sin cambiar su intención.
+- **GANCHO Nº:** elegir entre los 19 del kit; indicar número, nombre, qué transmite y por qué se recomienda para esa idea. Adaptar la frase al tema. Revisar el mecanismo anterior para no repetirlo en dos vídeos consecutivos.
+- **HOOK:** escribir la apertura concreta, comprensible desde el principio y pronunciable en los primeros tres segundos; describir también la imagen inicial que haga entender el tema sin sonido en los dos primeros segundos.
+- **TENSIÓN, PROMESA y PASOS:** escribir la propuesta de guion adaptada al contexto, útil y sin relleno. Evitar promesas que el contenido no puede cumplir.
+- **DATO:** usar solo información verificada del contexto o un detalle concreto respaldado por el material. Si no hay respaldo, indicar «Pendiente de verificar» o «Sin cifra: usar una demostración verificable»; nunca inventar cifras, resultados, testimonios o experiencias personales.
+- **CIERRE:** proponer conclusión con acción concreta o bucle según el objetivo; respetar lo que el usuario ya haya decidido.
+- **FORMATO Nº:** elegir entre los 30 del kit; indicar número, nombre y cómo grabarlo con el material y recursos disponibles. No repetir la misma combinación gancho–guion–formato dos vídeos seguidos. Si falta historial, declararlo sin inventarlo.
+
+La ficha es una **propuesta del asistente**: mostrarla para revisión del usuario. Mantener su decisión final sobre inicio, cierre y duración. Recoger solo las decisiones pendientes dentro del máximo de tres preguntas con opciones y recomendación; no pedir al usuario que redacte los demás campos.
+
+Este flujo de ideación complementa la plantilla «Edita [nombre del vídeo / el último]…». No exigir rellenar ambas plantillas si la idea o el contexto ya contienen los datos. Antes de editar, seguir todo el protocolo de la ficha de estilo: original intacto, análisis, transcripción y guion por momentos con lista de cortes en `3 Listos/`. **Aprobar la ficha creativa no sustituye el sí explícito al guion de edición.** Las excepciones «Solo para este vídeo» no cambian permanentemente el estilo.
