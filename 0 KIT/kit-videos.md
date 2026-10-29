@@ -178,3 +178,82 @@ Cada gancho de este banco viene con dos cosas: un ejemplo real y qué transmite.
 > Si te pasa esto, es normal
 
 **Qué transmite:** empatía + conexión.
+
+## Decisión 2: cómo lo cuentas — el guion
+
+**El guion:** el orden en el que cuentas las cosas.
+
+### Por qué importa
+
+Los vídeos que mejor funcionan casi nunca son casualidad. Siempre siguen una estructura.
+
+Cada parte del guion cumple una función y ayuda a que el vídeo sea claro, útil y fácil de consumir.
+
+### Las 6 partes de un guion que funciona
+
+| Parte | Función |
+| --- | --- |
+| 1. **Hook / entrada** | La frase que abre el vídeo y deja claro el tema o activa curiosidad. |
+| 2. **Problema / tensión** | La duda, error, creencia común o fricción que hace que el espectador quiera seguir. |
+| 3. **Promesa / valor** | Lo que el espectador va a conseguir si se queda viendo el vídeo. |
+| 4. **Desarrollo / pasos** | La explicación, proceso, respuestas o secuencia principal del contenido. |
+| 5. **Dato / credibilidad** | Números, ejemplos, páginas, tiempos o detalles que hacen el contenido más concreto. |
+| 6. **Cierre / recompensa** | La conclusión, resultado final o CTA que remata el valor del vídeo. |
+
+### Un guion real, desglosado: tutorial de una podóloga
+
+Uno de los vídeos con los que mejor rendimiento hemos tenido con un cliente.
+
+Así se reparten las 6 partes:
+
+#### Hook / entrada
+
+> Te voy a enseñar cómo cortarte las uñas de los pies bien para evitar uñas encarnadas o cosas peores.
+
+El inicio es directo: explica qué se va a aprender, qué problema evita y por qué importa. No hay introducción larga ni contexto innecesario.
+
+#### Problema / tensión
+
+> Mira, primero, no las cortes redondas, es el error más común.
+
+Empezar por el error común hace que el espectador se revise. La frase «no las cortes redondas» activa una duda inmediata: ¿lo estaré haciendo mal?
+
+#### Desarrollo / pasos
+
+> Paso 2: las uñas del pie se deben cortar rectas, dejando las esquinas visibles. […] Paso 4: si alguna esquinita molesta, lima suavemente, pero no la recortes.
+
+Las instrucciones son simples y visuales: cortar recto, dejar las esquinas visibles y limar si molesta. El guion no complica la explicación; la convierte en una acción fácil de aplicar.
+
+#### Dato / credibilidad
+
+> Paso 3: y no las cortes demasiado cortas porque la piel puede crecer por encima y la uña acaba clavándose.
+
+La consecuencia explica por qué importa hacerlo bien: si se cortan demasiado cortas, la piel puede crecer por encima y la uña acabar clavándose. Esto aumenta la percepción de riesgo y ayuda a recordar el consejo.
+
+#### Cierre / recompensa
+
+> Si quieres evitar uñas encarnadas y problemas en los pies, haz esto siempre cuando te cortes las uñas.
+
+El cierre vuelve al beneficio principal: evitar uñas encarnadas y problemas en los pies. Así el vídeo termina reforzando la conducta correcta.
+
+#### Estructura resumida
+
+Problema claro → error común → corrección → consecuencia → alternativa práctica → beneficio final.
+
+### Otras dos estructuras que funcionan
+
+#### Casa abandonada
+
+Situación reconocible → promesa legal → pasos simples → datos concretos → recompensa final.
+
+#### Entrevista sobre el trabajo más solicitado
+
+Pregunta abierta → respuestas previsibles → giro inesperado → cifra concreta → oportunidad accesible.
+
+### Lo que tienen en común: las 5 claves
+
+1. **El tema se entiende rápido.** Si el espectador no entiende rápido por qué debe quedarse, se va.
+2. **El valor es práctico.** Cada guion entrega algo aplicable.
+3. **Lo complejo se simplifica.** La autoridad aparece cuando algo difícil se vuelve fácil de entender.
+4. **Hay recompensa clara.** El espectador sabe qué gana por ver el vídeo.
+5. **Cada frase tiene una función.** No hay relleno. Cada bloque capta atención, crea curiosidad, explica, aporta credibilidad o cierra con beneficio.
