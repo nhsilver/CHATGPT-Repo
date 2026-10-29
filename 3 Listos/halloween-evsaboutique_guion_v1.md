@@ -21,7 +21,7 @@
 
 > ¿Vestidos de invitada para Halloween? Sí. Nuestra modista los adapta a ti. En evsaboutique cuidamos cada detalle. Diseños exclusivos, unidades limitadas. Escríbenos HALLOWEEN y encuentra el tuyo.
 
-31 palabras. El encaje exacto se medirá sobre la grabación real: los bloques siguientes son orientativos, no sincronización validada. Grabar con naturalidad; si no cabe, revisar el texto antes de acelerar o cortar palabras.
+27 palabras. El encaje exacto se medirá sobre la grabación real: los bloques siguientes son orientativos, no sincronización validada. Grabar con naturalidad; si no cabe, revisar el texto antes de acelerar o cortar palabras.
 
 ## Guion por momentos
 
@@ -53,7 +53,7 @@ Propuesta por contenido, no puntos de entrada/salida de origen ya validados. La 
 - Antes de editar: copiar los brutos seleccionados, localizar cara/manos y revisar el contenido completo. No usar un archivo solo por ser el último si no representa el material descrito.
 - Falta el audio de voz preparado por el usuario. Transcribirlo con tiempos por palabra siguiendo reels-montage; no inventar alineación. El modelo local de voz del estudio tenía pendiente de resolución su descarga; verificar esa capacidad antes de prometer subtítulos terminados.
 - Instrumental/ y Efectos de sonido/ solo contienen .gitkeep en la revisión actual. No generar música o efectos ni reutilizar los de las demos para suplirlos. Acordar los archivos o la incorporación de música desde Instagram antes de mezclar.
-- Sin recorte de fondo por defecto: conservar el ambiente de la tienda y las manos trabajando. Rem bg solo si se propone un recurso que refuerce el mensaje y se aprueba.
+- Sin recorte de fondo por defecto: conservar el ambiente de la tienda y las manos trabajando. rembg solo si se propone un recurso que refuerce el mensaje y se aprueba.
 - Vertical 1080×1920; subtítulos palabra a palabra con Libre Baskerville y destacados Montserrat ExtraBold; blanco #FFFFFF, crema #FFF4B0 y apoyo #181818. Evitar caras/manos en todo el recorrido.
 - Cada animación aprobada: un efecto discreto aportado por el usuario. Mezcla final medida a -14 LUFS integrados, voz por encima del resto.
 - Mantener revisión completa del exportado, sin sonido en 0–2 s y con confirmación del usuario de visionado entero en móvil. El montaje final se llamará halloween-evsaboutique_v1.mp4; correcciones posteriores en versiones nuevas.
