@@ -30,3 +30,22 @@ Solo para este vídeo: [opcional: más animaciones, sin música, un efecto concr
 ```
 
 Si ya entrega la plantilla rellena o información equivalente, no pedir que repita los datos. Leer `2 Mi estilo/mi-estilo.md`, aplicar las reglas completas y preparar el guion con lista de cortes en `3 Listos/`. Esperar el sí explícito al guion antes de editar. Las indicaciones «Solo para este vídeo» se aplican únicamente a esa edición y no cambian permanentemente la ficha. Las preguntas restantes necesarias, con opciones y recomendación, siguen limitadas a tres; no repetir la duración o el cierre cuando ya consten en la solicitud.
+
+## Recordatorio de efectos para cada edición
+
+Siempre que el usuario quiera editar un vídeo, acompañar la plantilla (o, si ya está rellena, el inicio de la preparación del guion) con este recordatorio completo:
+
+**Puedes pedirme estos efectos en «Solo para este vídeo»:**
+
+- Texto por detrás de ti.
+- Recorte tipo papel.
+- Fondo cambiado.
+- Zoom de impacto.
+- Contador animado.
+- Tarjeta con un dato.
+- Lista que aparece punto a punto.
+- Palabra clave resaltada.
+- Transición entre ideas.
+- Efecto de sonido en cada golpe.
+
+Son opciones para elegir, no efectos que se añadan todos automáticamente. Recomendar solo los que refuercen el mensaje y reflejarlos en el guion para su aprobación. Los contadores y tarjetas usan únicamente datos verificados aportados por el usuario o el material. Mantener las reglas de estilo: movimientos suaves, sin zooms bruscos; los golpes de sonido se sincronizan con énfasis elegidos, usando los archivos de `Efectos de sonido/` y sin tapar la voz ni saturar. Cambiar el fondo solo con recursos propios o autorizados, sin añadir material de terceros contra las reglas del usuario. Respetar gratuidad y avisar si algún efecto depende de un recurso o capacidad que falta.
