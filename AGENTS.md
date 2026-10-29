@@ -49,3 +49,16 @@ Siempre que el usuario quiera editar un vídeo, acompañar la plantilla (o, si y
 - Efecto de sonido en cada golpe.
 
 Son opciones para elegir, no efectos que se añadan todos automáticamente. Recomendar solo los que refuercen el mensaje y reflejarlos en el guion para su aprobación. Los contadores y tarjetas usan únicamente datos verificados aportados por el usuario o el material. Mantener las reglas de estilo: movimientos suaves, sin zooms bruscos; los golpes de sonido se sincronizan con énfasis elegidos, usando los archivos de `Efectos de sonido/` y sin tapar la voz ni saturar. Cambiar el fondo solo con recursos propios o autorizados, sin añadir material de terceros contra las reglas del usuario. Respetar gratuidad y avisar si algún efecto depende de un recurso o capacidad que falta.
+
+## Revisión antes de publicar
+
+Aplicar esta lista a la versión final exportada y mostrarla al entregar el vídeo. No marcar comprobaciones como realizadas si siguen pendientes.
+
+- [ ] Sin sonido, en los dos primeros segundos ya se entiende de qué va.
+- [ ] Los subtítulos no tienen ni una falta y van a la vez que la voz del usuario.
+- [ ] Nada tapa la cara del usuario; mantener también la comprobación de manos exigida en las reglas de edición.
+- [ ] La voz se oye por encima de todo lo demás.
+- [ ] La música es libre de derechos con permiso de uso comprobado, o el usuario la añadirá desde Instagram.
+- [ ] El usuario ha visto el vídeo entero una vez en el móvil, no solo en el ordenador.
+
+La visualización completa en el móvil requiere confirmación del usuario: recordárselo al entregar y dejar ese punto pendiente hasta que confirme haberlo visto. Una revisión en el ordenador o fotogramas no la sustituye. Si el usuario elige añadir música desde Instagram, entregar sin música incrustada, conservar su voz y los efectos aprobados y recordarle que compruebe allí el balance final de música y voz antes de publicar. No asumir derechos sobre una canción por estar en la carpeta Instrumental.
